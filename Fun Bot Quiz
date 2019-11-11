@@ -1,0 +1,31 @@
+
+print('I am the fun bot for Python 3!')
+
+print('I will tell a fun fact every time you type in the "tell a fact" script found in the README file!') 
+
+my_string = 'Lets Begin!'
+
+my_string.upper()
+
+my_string = 'Did you know: The Koenigsegg CCXR Trevita goes for about 4.8 million dollars? Thats a lot for a car.'
+
+print('Did you know: The Koenigsegg CCXR Trevita goes for about 4.8 million dollars? Thats a lot for a car.')
+
+my_string = 'The answer is 434!'
+
+print('Starting a game...')
+print('...')
+print('...')
+
+print('.')
+print('.')
+print('.')
+print('.')
+print('.')
+print('.')
+print('.')
+
+print('What is 7 x 62?')
+my_string
+
+----------------------------------
